@@ -1,0 +1,53 @@
+# -----------------here are some of my very first python programs --------------------
+
+import math
+
+# Python program to swap 2 numbers 
+# a=int (input("enter the value of first number"))
+# b=int (input("enter the second number to be entered"))
+# print("value of a is",a,"value of b is",b)
+# print("after swapping ")
+# temp=a
+# a=b
+# b=temp;
+# print("value of a is",a,"value of b is",b)
+
+# python program to print the sum of two number 
+# a=int (input("enter the value of first number"))
+# b=int (input("enter the second number to be entered"))
+# sum=a+b
+# print("sum of two numbers are ",sum)
+
+# python program to do all the airthmatic operations on 2 numbers
+# a=int (input("enter the value of first number"))
+# b=int (input("enter the second number to be entered"))
+# sub=a-b
+# mul=a*b
+# div=a/b
+# mod=a%b
+# print("the airthmatic operations are here\n",sub ,mul ,div ,mod  )
+
+# python program to find out the simple interest
+# principle=float(input("enter the value of principle "))
+# time =float (input("enter the duration upto which u waana calculate si"))
+# rate =float (input ("enter the rate on which u wanna calculate si")) 
+# si=(principle*rate*time)/100
+# print("simple interest for the given amount is \n",si)
+
+# python program to calculate the compound interest
+# principle=float(input("enter the value of principle "))
+# time =float (input("enter the duration upto which u waana calculate si"))
+# rate =float (input ("enter the rate on which u wanna calculate si")) 
+# p=pow((1+rate/100),time)
+# A=principle*p
+# ci=A-principle
+# print("compound ineterest for the given information",A,ci)
+
+
+
+
+
+
+
+
+
